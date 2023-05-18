@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">calculadora</string>
+
+    <string name="txtNumero1">Numero1</string>
+    <string name="txtNumero2">Numero2 </string>
+    <string name="txtResultado">Resultado</string>
+    <string name="btnSumar">+</string>
+    <string name="btnRestar">-</string>
+    <string name="btnMultiplicar">X</string>
+    <string name="btndividir">/</string>
+
+</resources>
